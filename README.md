@@ -1,6 +1,12 @@
 ## Twitch Follow Bot
 A selfbot that can do more than expected, originally created to gather up follow bot servers and use their follow bot.
 
+## Getting Followers
+Getting the followers are very simple. You just have to join the servers that give followers.
+That's how you are able to get the channels to use them in.
+
+
+
 ### How do I use?
 Firstly, you need to import the packages for the selfbot & system.
 
