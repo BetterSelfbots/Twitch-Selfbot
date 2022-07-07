@@ -18,4 +18,4 @@ pip install asyncio
 ```
 
 ### Now its finished!
-Everything else will be inside of the code. Please note, I am not responsible for your ban if youg et one.
+Everything else will be inside of the code. Please note, I am not responsible for your ban if you get one.
